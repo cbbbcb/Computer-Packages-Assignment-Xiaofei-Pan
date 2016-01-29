@@ -9,3 +9,5 @@ For that course project, I used SPSS to analyze the data. So I can use R or SAS 
 I do not have any other data eligible for quantitative research.
 
 Using other packages than SPSS may give me additional information about the results.
+
+Good idea! Really good!
